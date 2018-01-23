@@ -1,5 +1,5 @@
 ################################################
-# ITSx: Week 2: Interrupted Time Series Analysis
+# Interrupted Time Series Analysis
 # Dora Linda Kocsis
 # January 2017
 ################################################
