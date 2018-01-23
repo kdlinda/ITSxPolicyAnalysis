@@ -1,5 +1,5 @@
 ################################################
-# ITSx: Week 4: Multiple Interventions
+# Multiple Interventions
 # Dora Linda Kocsis
 # January 2017
 ################################################
