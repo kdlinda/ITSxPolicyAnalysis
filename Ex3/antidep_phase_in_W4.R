@@ -1,5 +1,5 @@
 ################################################
-# ITSx: Week 4: Phase-in Periods
+# Phase-in Periods
 # Dora Linda Kocsis
 # January 2017
 ################################################
