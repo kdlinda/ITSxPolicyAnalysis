@@ -1,5 +1,5 @@
 ################################################
-# ITSx: Week 4: Non-linear Trends
+# Non-linear Trends
 # Dora Linda Kocsis
 # January 2017
 ################################################
