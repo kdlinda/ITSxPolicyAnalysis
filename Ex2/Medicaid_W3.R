@@ -1,5 +1,5 @@
 ################################################
-# ITSx: Week 3: Interrupted Time Series Analysis with Control Group
+# Interrupted Time Series Analysis with Control Group
 # Dora Linda Kocsis
 # January 2017
 ################################################
