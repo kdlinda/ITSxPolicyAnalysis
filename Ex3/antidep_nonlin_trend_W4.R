@@ -22,7 +22,6 @@ library(car)
 # Read in the dataset
 ########################
 
-# Two options: either use "import dataset" in RStudio, or use read.csv
 df <- read.csv("*/antidep_nonlin_trend.csv",header=T)
 View(df)
 summary(df)
