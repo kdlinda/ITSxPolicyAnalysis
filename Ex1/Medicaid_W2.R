@@ -13,7 +13,7 @@ library(car)
 ########################
 # Read in the dataset
 ########################
-data <- read.csv("C:/Users/dorak/Desktop/Policy Analysis Using ITS/Week 2/antipsychotic_study.csv",header=T)
+data <- read.csv("*/antipsychotic_study.csv",header=T)
 
 View(data)
 summary(data)
