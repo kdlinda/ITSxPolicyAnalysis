@@ -23,7 +23,7 @@ library(car)
 ########################
 
 # Two options: either use "import dataset" in RStudio, or use read.csv
-df <- read.csv("C:/Users/dorak/Desktop/Policy Analysis Using ITS/Week 4/antidep_nonlin_trend.csv",header=T)
+df <- read.csv("*/antidep_nonlin_trend.csv",header=T)
 View(df)
 summary(df)
 
